@@ -53,7 +53,7 @@ This project utilizes **Deep Learning (PyTorch)** to classify breast cancer case
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Breast_Cancer_Prediction.git
+   git clone https://github.com/HanumeshGupta/Breast_Cancer_Model_Using_AI.git
    cd Breast_Cancer_Prediction
    ```
 2. **Install dependencies**
